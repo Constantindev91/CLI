@@ -1,0 +1,17 @@
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\microsoft.botsay.exe
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\microsoft.botsay.deps.json
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\microsoft.botsay.runtimeconfig.json
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\microsoft.botsay.dll
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\microsoft.botsay.pdb
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.AssemblyInfoInputs.cache
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.AssemblyInfo.cs
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.dll
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\refint\microsoft.botsay.dll
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.pdb
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.genruntimeconfig.cache
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\ref\microsoft.botsay.dll
+C:\xampp\htdocs\CSharp\microsoft.botsay\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.csproj.AssemblyReference.cache
+C:\xampp\htdocs\CSharp\microsoft.botsay\obj\Debug\net7.0\microsoft.botsay.csproj.CopyComplete

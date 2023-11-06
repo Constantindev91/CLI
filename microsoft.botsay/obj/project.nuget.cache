@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zF0dKWs+AxQ+aoDjRd+2FBw5yKMJ0h8P42ZktpallZvla6BUO8/x9WAGXkgBJcFPRtO+cU9f14nFlhsY66WKxQ==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\CSharp\\microsoft.botsay\\microsoft.botsay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bayar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
